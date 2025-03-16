@@ -1,6 +1,6 @@
-# Sales Insights API
+# SQL API
 
-Esta API fornece insights de vendas utilizando um agente OpenAI para responder perguntas sobre vendas e listar os produtos mais vendidos.
+Esta API fornece informações sobre a tabela SQL.
 
 ## Tecnologias Utilizadas
 - Langchain
